@@ -1,0 +1,30 @@
+.main{
+    display:flex;
+    flex-direction: column;
+    width: 50%;
+    margin: 0 auto;
+    align-items: center;
+}
+.knop{
+    display:flex;
+    flex-direction: row;
+    margin-top: 20px;
+}
+.big{
+    width:600px;
+    height:300px;
+    margin-top: 100px;
+    border: 1px solid black;
+}
+h1{
+    color:blue;
+    font-size:20px;
+}
+.zadat{
+    margin-left: 30px;
+}
+.udal{
+    width: 600px;
+    height: 150px;
+    border: 1px solid black;
+}
